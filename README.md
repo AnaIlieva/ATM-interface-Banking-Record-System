@@ -49,7 +49,7 @@
 
 На *фиг.1* са изобразени възможните действия на един служител в банката.
 
-![](/images/Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.002.png) 
+![](/Images/Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.002.png) 
 
 `                                                                        `*фиг.1*
 
@@ -60,7 +60,7 @@
 # class Admin
 Представя работата на системния администратор (*фиг.2*).
 
-![](/images/Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.003.png)
+![](/Images/Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.003.png)
 
 `                                                                                                                                                                 `*фиг.2*
 
@@ -68,7 +68,7 @@
 # class Employee
 Представя работата на служител (*фиг.3*).
 
-![](/images/Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.004.png)
+![](/Images/Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.004.png)
 
 `                                                                                                                                                                 `*фиг.3*
 
@@ -76,7 +76,7 @@
 # class Client
 Представя възможните действия на клиент (*фиг. 4*).
 
-![](/images/Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.005.png)
+![](/Images/Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.005.png)
 
 `	                                                                                                                     `*фиг.4*	
 
@@ -84,13 +84,13 @@
 # class Card	
 Представя банкова карта (*фиг.5*).
 
-![](/images/Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.006.png)
+![](/Images/Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.006.png)
 
 `                                                                                                                        `*фиг.5*
 # class ClientsAccount
 Представя клиентска сметка (*фиг.6*).
 
-![](/images/Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.007.png)
+![](/Images/Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.007.png)
 
 `                                                                                                                        `*фиг.6*
 # Обобщение на реализацията
@@ -98,6 +98,4 @@
 # Заключение
 Има допълнителни възможности за оптимизация, но като цяло проектът е изграден, спазвайки ООП – принципите.
 
-
-7
 
