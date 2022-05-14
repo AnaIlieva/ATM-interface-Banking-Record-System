@@ -9,7 +9,6 @@
 Ана Илиева, фак. № 82303
 
 
-![](Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.001.png)
 # Съдържание
 
 [Увод	3](#_Toc74134090)
@@ -50,7 +49,7 @@
 
 На *фиг.1* са изобразени възможните действия на един служител в банката.
 
-![](Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.002.png) 
+![](/images/Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.002.png) 
 
 `                                                                        `*фиг.1*
 
@@ -61,7 +60,7 @@
 # class Admin
 Представя работата на системния администратор (*фиг.2*).
 
-![](Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.003.png)
+![](/images/Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.003.png)
 
 `                                                                                                                                                                 `*фиг.2*
 
@@ -69,7 +68,7 @@
 # class Employee
 Представя работата на служител (*фиг.3*).
 
-![](Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.004.png)
+![](/images/Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.004.png)
 
 `                                                                                                                                                                 `*фиг.3*
 
@@ -77,7 +76,7 @@
 # class Client
 Представя възможните действия на клиент (*фиг. 4*).
 
-![](Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.005.png)
+![](/images/Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.005.png)
 
 `	                                                                                                                     `*фиг.4*	
 
@@ -85,13 +84,13 @@
 # class Card	
 Представя банкова карта (*фиг.5*).
 
-![](Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.006.png)
+![](/images/Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.006.png)
 
 `                                                                                                                        `*фиг.5*
 # class ClientsAccount
 Представя клиентска сметка (*фиг.6*).
 
-![](Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.007.png)
+![](/images/Aspose.Words.85e4e7f3-c215-4ad9-8e39-28abcb18ba91.007.png)
 
 `                                                                                                                        `*фиг.6*
 # Обобщение на реализацията
